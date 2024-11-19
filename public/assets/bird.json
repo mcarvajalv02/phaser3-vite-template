@@ -1,0 +1,77 @@
+{
+    "frames": [
+        {
+            "filename": "idle",
+            "frame": {
+                "x": 10,
+                "y": 16,
+                "w": 45,
+                "h": 44
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 44
+            }
+        },
+        {
+            "filename": "top",
+            "frame": {
+                "x": 65,
+                "y": 16,
+                "w": 47,
+                "h": 44
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 47,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 47,
+                "h": 44
+            }
+        },
+{
+            "filename": "angry",
+            "frame": {
+                "x": 177,
+                "y": 16,
+                "w": 45,
+                "h": 41
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 41
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 41
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "bird.png",
+        "size": {
+            "w": 644,
+            "h": 1102
+        },
+        "scale": 1
+    }
+}
